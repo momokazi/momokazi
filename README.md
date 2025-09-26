@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Momin</h1>
-<h3 align="center">A goated flutter developer from Pakistan</h3>
+<h3 align="center">A Flutter developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momokazii&label=Profile%20views&color=ee00ff&style=flat" alt="momokazii" /> </p>
 
